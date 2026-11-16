@@ -32,6 +32,7 @@ LifeAi is a technology company that builds AI-powered software products. We buil
 
 ## Every product solves one real need.
 
+<div align="center">
 <table>
 <tr>
 <td align="center" valign="top" width="380"><img src="https://raw.githubusercontent.com/LifeAI-Dev/.github/main/assets/products/swift-speak.png" width="64" alt=""><br><a href="https://lifeai.ovh/en/swift-speak"><b>Swift Speak</b></a><br>You speak. Already written.<br><sub>Voice typing for Windows, even offline</sub><br><br><a href="https://lifeai.ovh/en/swift-speak">Website</a> · <a href="https://github.com/LifeAI-Dev/Swift-Speak">GitHub</a></td>
@@ -42,6 +43,7 @@ LifeAi is a technology company that builds AI-powered software products. We buil
 <td align="center" valign="top" width="380"><img src="https://raw.githubusercontent.com/LifeAI-Dev/.github/main/assets/products/drivelog.png" width="64" alt=""><br><a href="https://lifeai.ovh/en/drivelog"><b>DriveLog</b></a> · <sub>Coming soon</sub><br>Calendar updated. Hands on the wheel.<br><sub>Calendar and voice agent for driving instructors</sub><br><br><a href="https://lifeai.ovh/en/drivelog">Website</a></td>
 </tr>
 </table>
+</div>
 
 ## What our Windows apps share
 
@@ -86,6 +88,7 @@ Like what we build? <a href="https://ko-fi.com/lifeai">Support us on Ko-fi</a> �
 
 ### כל מוצר פותר צורך אמיתי אחד.
 
+<div align="center" dir="rtl">
 <table>
 <tr>
 <td align="center" valign="top" width="380"><img src="https://raw.githubusercontent.com/LifeAI-Dev/.github/main/assets/products/swift-speak.png" width="64" alt=""><br><a href="https://lifeai.ovh/swift-speak"><b>Swift Speak</b></a><br>מדברים. וזה כבר כתוב.<br><sub>הקלדה קולית ל-Windows, גם בלי אינטרנט</sub><br><br><a href="https://lifeai.ovh/swift-speak">לאתר</a> · <a href="https://github.com/LifeAI-Dev/Swift-Speak">GitHub</a></td>
@@ -96,6 +99,7 @@ Like what we build? <a href="https://ko-fi.com/lifeai">Support us on Ko-fi</a> �
 <td align="center" valign="top" width="380"><img src="https://raw.githubusercontent.com/LifeAI-Dev/.github/main/assets/products/drivelog.png" width="64" alt=""><br><a href="https://lifeai.ovh/drivelog"><b>DriveLog</b></a> · <sub>בקרוב</sub><br>היומן מתעדכן. הידיים על ההגה.<br><sub>יומן וסוכן קולי למורי נהיגה</sub><br><br><a href="https://lifeai.ovh/drivelog">לאתר</a></td>
 </tr>
 </table>
+</div>
 
 ### מה משותף לתוכנות שלנו ל-Windows
 
