@@ -63,11 +63,15 @@ Like what we build? <a href="https://ko-fi.com/lifeai">Support us on Ko-fi</a> �
 
 <div dir="rtl">
 
+<div align="center">
+
 ## LifeAi בעברית
 
-<a href="#user-content-lifeai">English</a> · <b>עברית</b>
+‏<a href="#user-content-lifeai">English</a> · <b>עברית</b>
 
-LifeAi היא חברת טכנולוגיה שמפתחת מוצרי תוכנה מבוססי בינה מלאכותית. אנחנו בונים כלים מהירים, פשוטים ומדויקים, שהופכים משימות מורכבות ויומיומיות לקלות ונגישות לכל אחד.
+</div>
+
+‏LifeAi היא חברת טכנולוגיה שמפתחת מוצרי תוכנה מבוססי בינה מלאכותית. אנחנו בונים כלים מהירים, פשוטים ומדויקים, שהופכים משימות מורכבות ויומיומיות לקלות ונגישות לכל אחד.
 
 <div align="center">
 <table dir="ltr">
@@ -105,7 +109,7 @@ LifeAi היא חברת טכנולוגיה שמפתחת מוצרי תוכנה מ�
 
 ### יצירת קשר
 
-<a href="https://lifeai.ovh/">lifeai.ovh</a> · <a href="mailto:contact@lifeai.ovh">contact@lifeai.ovh</a> · <a href="https://lifeai.ovh/contact">עמוד יצירת הקשר</a>
+‏<a href="https://lifeai.ovh/">lifeai.ovh</a> · <a href="mailto:contact@lifeai.ovh">contact@lifeai.ovh</a> · <a href="https://lifeai.ovh/contact">עמוד יצירת הקשר</a>
 
 אוהבים את מה שאנחנו בונים? <a href="https://ko-fi.com/lifeai">תמכו בנו ב-Ko-fi</a> ☕
 
